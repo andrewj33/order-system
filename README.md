@@ -1,2 +1,2 @@
 # order-system
-A mock order system using Netbeans 11.1
+A mock order system built using Netbeans IDE 11.1
